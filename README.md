@@ -63,6 +63,6 @@ A premium, highly fluid web application designed to instantly generate tailored,
 ---
 
 ## 🔗 Live Demo
-**View the site live here:** [Insert your Vercel or Netlify link here]
+**View the site live here:** [https://ai-cover-letter-generator-psi.vercel.app/]
 
 ---
